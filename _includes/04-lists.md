@@ -1,6 +1,4 @@
-<ol>
-  <li>Food</li>
-  <li>Money</li>
-  <li>Sex</li>
+- Food
+- Money
+- Sex
 
- </ol>
